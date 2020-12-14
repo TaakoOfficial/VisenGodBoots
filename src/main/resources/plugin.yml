@@ -1,0 +1,12 @@
+name: Godboots
+version: ${project.version}
+main: com.visengaming.godboots.Godboots
+api-version: 1.16
+prefix: Visen God Boots
+load: STARTUP
+authors: [ToonamiSenpai]
+description: Good Boots
+website: https://visengaming.com
+
+commands:
+  GodBoots:
